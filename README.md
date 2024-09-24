@@ -50,7 +50,10 @@ dstport,protocol,tag
 
 # How to Run the Program
 
-  - Clone this repository to your local machine using: ```https://github.com/Hriz1/Illumio_Coding_Assessment.git```
+  - Clone this repository to your local machine using:
+    ```
+    https://github.com/Hriz1/Illumio_Coding_Assessment.git
+    ```
 
   - Ensure that you have both the flow log file `flow_logs.txt` and the lookup table file `lookup_table.csv` in the project directory.
 
