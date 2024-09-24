@@ -1,0 +1,13 @@
+dstport,protocol,tag
+443,tcp,sv_P2
+23,tcp,sv_P1
+25,tcp,sv_P1
+110,tcp,email
+993,tcp,email
+143,tcp,email
+80,tcp,sv_P4
+49153,udp,sv_P3
+49154,tcp,sv_P4
+56000,tcp,sv_P5
+1024,tcp,sv_P4
+49321,tcp,sv_P1
